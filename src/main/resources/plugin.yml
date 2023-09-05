@@ -1,0 +1,6 @@
+name: hycosmetics
+version: '${version}'
+main: xyz.hynse.hycosmetics.Hycosmetics
+api-version: '1.20'
+authors: [MidnightTale]
+website: hynse.xyz
